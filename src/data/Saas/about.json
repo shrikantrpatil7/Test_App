@@ -1,0 +1,18 @@
+{
+  "lineLinks": [
+    "Access All PAN India",
+    "Rewarding Cashback Offers",
+    "Trade 24K Digital Gold Safely",
+    "LIC/Insurance Premium"
+  ],
+  "list": [
+    { "icon": "bi bi-check2", "title": "Low-cost credit card payments." },
+    { "icon": "bi bi-check2", "title": "Rewarding cashback offers." },
+    { "icon": "bi bi-check2", "title": "Support Dispute & Refund 24/7" }
+  ],
+  "texts": {
+    "text1": "The platform offers enhanced choice and flexibility for users in sending payments, making purchases, or receiving funds, thereby redefining the experience of financial transactions.",
+    "text2": "Our mission is to introduce Digital Payment Technology to millions of Indian offline retailers and consumers, integrating them into the mainstream economy."
+  },
+  "number": "42,500+"
+}

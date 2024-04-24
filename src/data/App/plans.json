@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Retailer",
+    "price": "Free",
+    "image": "/assets/img/icons/price_s4_1.png",
+    "description": "Get your offline business up and running",
+    "features": [
+      {
+        "icon": " fas fa-qrcode",
+        "title": "Accept Payment by QR",
+        "active": true
+      },
+      {
+        "icon": "fas fa-credit-card",
+        "title": "Recharge Services ",
+        "active": true
+      },
+      {
+        "icon": "fas fa-file-invoice-dollar",
+        "title": "Bill Payment services",
+        "active": true
+      },
+      {
+        "icon": " fas fa-university",
+        "title": "Banking Services",
+        "active": false 
+      }
+    ]
+  },
+  {
+    "title": "Distributor",
+    "price": "₹ 4500",
+    "image": "/assets/img/icons/price_s4_2.png",
+    "description": "Get your offline business up and running",
+    "off": "21%",
+    "features": [
+      {
+        "icon": "fas fa-qrcode",
+        "title": "Accept Payment by QR",
+        "active": true
+      },
+      {
+        "icon": "fas fa-credit-card",
+        "title": "Recharge & Bill Payment",
+        "active": true
+      },
+      
+      {
+        "icon": " fas fa-university",
+        "title": "Banking Services",
+        "active": false 
+      },
+      {
+        "icon": "fas fa-store ",
+        "title": "Make a Retailer",
+        "active": true
+      }
+    ]
+  },{
+    "title": "Franchise Partner",
+    "price": "₹ 9450",
+    "image": "/assets/img/icons/money.png",
+    "off": "14%",
+    "description": "Get your business up and running",
+    "features": [
+      {
+        "icon": "fas fa-qrcode",
+        "title": "Accept Payment by QR",
+        "active": true
+      },
+      {
+        "icon": "fas fa-credit-card",
+        "title": "Recharge & Bill Payment",
+        "active": true
+      },
+      
+      {
+        "icon": " fas fa-university",
+        "title": "Banking Services",
+        "active": false 
+      },
+      {
+        "icon": "fas fa-truck",
+        "title": "Make a Distributor",
+        "active": true
+      }
+      
+    ]
+  }
+]

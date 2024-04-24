@@ -1,0 +1,341 @@
+[
+  {
+    "id": 1,
+    "question": "Can I change my registered mobile number?",
+    "answer": {
+      "part1": "Yes, you can change your mobile number before doing the Maximum KYC. To",
+      "part2": " change your Registered Mobile Number in your Aeronpay wallet please follow the steps mentioned below : -",
+      "part3": " Open the Aeronpay app",
+      "part4": "Select the Profile button at the bottom.",
+      "part5": "Select the Edit Profile button.",
+      "part6": "  Enter your new Mobile number(Enter the new number which you need to replace for RMN.)",
+      "part7": "  Click Update Profile",
+      "part8": " Enter OTP.",
+      "part9": " *Note: You cannot change your RMN after completing your Maximum KYC."
+
+
+    }
+  },
+  {
+    "id": 2,
+    "question": "How to change my Transaction Password and Transaction PIN?",
+    "answer": {
+      "part1": "You can change your password by Clicking on the profile button in the Aeronpay app. There you get two options Change Transaction PIN and Change Password.",
+      "part2": " Select the needed option and Enter the Old Password/Old PIN of your Aeronpay Wallet."
+    }
+  },
+  {
+    "id": 3,
+    "question": " How to recover forgotten password?",
+    "answer": {
+      "part1": " Visit Forgot Password",
+      "part2": " Enter your Registered Mobile Number on the account.",
+      "part3": " Select Submit",
+      "part4": " You will get a message on your Registered Mobile Number",
+      "part5": " You need to enter on the login page.",
+      "part6": "  Enter your Registered Mobile Number(RMN).",
+      "part7": "   After that, you get an option of Forgot Password.",
+      "part8": " Enter your RMN, You will get a message on your RMN."
+    }
+  },
+  {
+    "id": 4,
+    "question": " How can I view my Transaction Statement?",
+    "answer": {
+      "part1": "You can view your transaction statement by following the mentioned steps below:- ",
+      "part2": "Login to Aeronpay App.",
+      "part3": "Select the History Button from Bottom",
+      "part4": "Click on the eWallet Summary option.",
+      "part5": "Scroll down for more transaction details."
+
+    }
+  },
+  {
+    "id": 5,
+    "question": "  Can I use the same account on another device?",
+    "answer": {
+      "part1": "Yes, you can use one account on two different devices by using OTP."
+    }
+  },
+  {
+    "id": 6,
+    "question": "Where I can use the amount available in Aeronpay",
+    "answer": {
+      "part1": " You can use the available amount in Aeronpay for all our services Find all the services mentioned below:-     ",
+      "part2": "  Mobile Recharges",
+      "part3": "  DTH Recharges and Bill Payments ",
+      "part4": " Fastag Recharges and Gift Card ",
+      "part5": "  Wallet to Bank Transfer  ",
+      "part6": " Insurance Renewal and Loan Repayment ",
+      "part7": " Flight Booking and Hotel Booking  ",
+      "part8": " Bus and Cab Booking  ",
+      "part9": " Gas Cylinder Booking etc. "
+
+    }
+  },
+  {
+    "id": 7,
+    "question": " What is a Aeronpay wallet?",
+    "answer": {
+      "part1": "AeronPay Wallet is India's biggest payment aggregator firm with an extensive digital services platform.",
+      "part2": " It offers a variety of digital payment services such as online recharge and bill payments, UPI, and Instant money transfer services in India, among others. AeronPay is also a major leading  provider of payment solutions to e-commerce merchants. "
+    }
+  },
+  {
+    "id": 8,
+    "question": "Why is my Aeronpay wallet Blocked?",
+    "answer": {
+      "part1": "Aeronpay wallet could be blocked due to various some reasons like: -",
+      "part2": " fraudulent activity in the wallet, or unauthorized transaction received from authorities or banks "
+    }
+  },
+  {
+    "id": 9,
+    "question": "What to do when my wallet is blocked?",
+    "answer": {
+      "part1": "When your wallet is blocked, please share your officially valid government documents like Aadhaar Card, Pan Card, Selfie with Aadhaar   Card, Driving License at support@aeronpay.in  Aeronpay team will respond to you within 24 - 48 hours"
+
+    }
+  },
+  {
+    "id": 10,
+    "question": "How much money can I transfer one time from my wallet to a bank?",
+    "answer": {
+      "part1": "As per RBI Guidelines for wallets, you can transfer 5000 once in a transaction."
+
+    }
+  },
+  {
+    "id":11,
+    "question": "How do I add money to Aeronpay Wallet?",
+    "answer": {
+      "part1": "You can Add Money in the Aeronpay wallet easily and simply. Follow the steps mentioned below:-",
+    "part2": "Select the Add Money option at the top.",
+    "part3": "Enter the amount which you wish to add in Aeronpay Wallet.",
+    "part4": "Select the payment option (Debit card/Credit card/Net banking/UPI) through which you want to transfer money to your wallet.",
+    "part5": "Enter your bank or card details such as Card number, expiry date, and CVV to proceed with the transaction.",
+    "part6": "Complete the Add Money by Authenticating it."
+
+    }
+  },
+   {
+    "id": 12,
+    "question": "How to transfer money from the wallet to a bank account?",
+    "answer": {
+      "part1": "Wallet to bank transfer services is available for Maximum KYC Users only. Log in to your Aeronpay wallet account and follow the steps mentioned below:",
+      "part2": "Tap on the \"DMR/DMT2\" option on the top of the home screen. Enter your RMN and then click on the Login button.",
+      "part3": "Select the Beneficiary Page.",
+      "part4": "Enter the bank account details by selecting the \"+\" button at the bottom or choose from the list of previously used bank accounts.",
+      "part5": "Verify the details and enter the amount that you would like to transfer.",
+      "part6": "Enter the Transaction Password.",
+      "part7": "Tap on \"Fund Transfer\".",
+      "part8": "Your transaction will be successful with the messaging confirmation by Aeronpay wallet. Your amount is successfully debited from your wallet and transferred to the beneficiary account."
+  
+
+    }
+  },
+  {
+    "id": 13,
+    "question": "How to do wallet-to-wallet transfer?",
+    "answer": {
+      "part1": "Refer to the below-mentioned steps to transfer:",
+    "part2": "Log into your AeronPay account and click on the Search page at the bottom.",
+    "part3": "Swipe left in the \"Financial Services\" option.",
+    "part4": "Enter the recipient's wallet RMN.",
+    "part5": "Enter the amount that you wish to transfer.",
+    "part6": "Enter your Transaction Password.",
+    "part7": "Enter Remark (Optional).",
+    "part8": "Click the \"Submit\" button to complete the transfer."
+
+    }
+  },
+  {
+    "id": 14,
+    "question": " Why I am unable to do wallet-to-wallet transfer?",
+    "answer": {
+      "part1": " Wallet to Wallet transfer services is available only for KYC Users. If you are already a KYC User and are unable to use the wallet to wallet  transfer services, please drop a mail us at support@aeronpay.in, we will  check this for you"
+
+    }
+  },
+  {
+    "id": 15,
+    "question": " Are there any charges for the wallet-to-wallet transfer?",
+    "answer": {
+      "part1": "There are NO charges levied on the Wallet to Wallet transfer service."
+
+    }
+  },
+  {
+    "id": 16,
+    "question": "Unable to Add Money?",
+    "answer": {
+      "part1": "This could happen due to many reasons as listed below:",
+      "part2": "Your add money limit has been reached.",
+      "part3": "Connectivity issue with your Internet service provider.",
+      "part4": "Delay in receiving authorization from the Issuing Bank.",
+      "part5": "Insufficient funds in your bank/card account or have not been activated for online payments.",
+      "part6": "Connectivity issue between Bank and the Payment Gateway."
+  
+
+    }
+  },
+  {
+    "id": 17,
+    "question": "I am unable to send money to the bank?",
+    "answer": {
+      "part1": " Wallet to Bank transfer services is available only for Maximum KYC Users. If you are already a Maximum KYC user and are unable to use the wallet to bank transfer services, please note, this could happen due to many reasons as listed below:",
+      "part2": "Your Transfer limit has been reached.",
+      "part3": "Connectivity issue with your Internet service provider.",
+      "part4": "Delay in receiving authorization from the Issuing Bank.",
+      "part5": "Insufficient funds in the wallet.",
+      "part6": "Connectivity issue between Bank or beneficiary bank."
+  
+
+    }
+  },
+  {
+    "id": 18,
+    "question": "What is Minimum KYC and How to do it?",
+    "answer": {
+      "part1": "Minimum KYC is Mandatory for new users who registered with Aeronpay. It is the main process to do the First transaction in Aeronpay. you have to upload your officially valid government documents like your Driving License, Voter ID, PAN Card (anyone). After that, you get the wallet limit of 10,000 in a month.Follow these steps to do Minimum KYC",
+      "part2": "Select the upper left corner of navigation bar.",
+      "part3": "Click on Upload KYC button",
+      "part4": "-Fill in the details of your officially valid government documents.",
+      "part5": "Select the VERIFY NOW button.",
+      "part6": "You will get the wallet Limit of Rs 10000 Per Month."
+  
+
+    }
+  },
+  {
+    "id": 19,
+    "question": "What is Maximum KYC and How to do it?",
+    "answer": {
+      "part1": "Maximum KYC is Mandatory for those users who need to do transactions of more than 10,000 in Aeronpay. Here you need to verify your details through your Aadhaar Card. After your Maximum KYC you get a 1,00,000 limit in your Aeronpay wallet in a month. Follow the mentioned step to do maximum KYC",
+      "part2": "Select the left upper corner navigation bar.",
+      "part3": "Select the Upload Max KYC button.",
+      "part4": "Here you need to upload the Aadhar XML File.",
+      "part5": "If you have Aadhaar XML File then select YES or, if you didn't have an Aadhaar XML File then select  NO",
+      "part6": "After selecting YES you have to upload an XML file there.",
+      "part7": " After Selecting NO, a new page opens just next, after this, you need  to enter your Aadhaar Number(UID).",
+      "part8":"Enter Security Code. (Which are showing in the picture.",
+      "part9":"Select the Option SEND OTP.",
+      "part10":"Enter OTP",
+      "part11":"Enter Share Code. (Eg: 1234)",
+      "part12":"Select Proceed button.",
+      "part13":"Enter your Share code.",
+      "part14":" You will get the wallet Limit of Rs. 200000 Per Month."
+      
+
+    }
+  },
+  {
+    "id": 20,
+    "question": "How can I receive a refund, If my recharge fails?",
+    "answer": {
+      "part1": " In case of a failure, Funds will be credited back to your Aeronpay  Account."
+    
+
+    }
+  },
+  {
+    "id": 21,
+    "question": " How can I do Prepaid Mobile Recharge/Postpaid Bill Payment?",
+    "answer": {
+      "part1": "Login to your AeronPay Mobile App. Enter the needed section.",
+      "part2": "  For Prepaid recharge, simply enter your prepaid mobile number, select",
+      "part3": " the operator and select the recharge plan and authorize the payment.",
+      "part4": "For Postpaid bill payment, simply enter your postpaid mobile number,",
+      "part5": "select the operator, enter the amount and authorize the payment."
+  
+
+    }
+  },
+  {
+    "id": 22,
+    "question": "What if my Prepaid Mobile Recharge/Postpaid Bill Payment fails?",
+    "answer": {
+      "part1": "We understand your concern and would like to assure you that your money is safe. Your recharge could fail due to multiple reasons:",
+      "part2": "There was a delay in responding from the mobile network operator's end.",
+      "part3": "The prepaid recharge plan selected by you is currently not available.",
+      "part4": "There might be a connectivity issue due to which the recharge transaction processing could not get completed."
+  
+
+    }
+  },
+  {
+    "id": 23,
+    "question": "Which and how I can pay Landline Bills through Aeronpay?",
+    "answer": {
+      "part1": " You can pay Airtel Landline, BSNL Landline, MTNL Delhi/Mumbai bills on Aeronpay. Please visit the â€˜Landlineâ€™ section on our Aeronpay app, Select the operator, simply enter your Landline number, Fetch the bill, enter the amount and authorize the payment."
+    }
+  },
+  {
+    "id": 24,
+    "question": "I am unable to recharge, it is failing again and again. Why?",
+    "answer": {
+      "part1": "Recharge failure may occur due to an issue at the end of the operator. We request you to try again after some time. If your number is ported,select the correct operator and circle manually."
+    
+    }
+  },
+  {
+    "id": 25,
+    "question": "Why I am unable to pay the Bill?",
+    "answer": {
+      "part1": "Please check, that you have entered the details correctly? ",
+      "part2":"Payment failure could be due to an issue at the operator's end. We suggest you retry after some time."
+      
+  
+
+    }
+  },
+  {
+    "id": 26,
+    "question": "Recharged a Wrong number?",
+    "answer": {
+      "part1": " We are sorry to hear this but the recharge request has been successfully    processed by the Operator and we do not have any control once the request is processed. We request you should reach to the Operator along with Operator Reference Number(ORN) and request them to reverse the amount. You can get the ORN from the from History (at the bottom) Recharge History. To avoid these instances we request you to cross-check the details before completing any transaction."
+  
+
+    }
+  },
+  {
+    "id": 27,
+    "question": "Can I get the Surcharges refund when the Failure transaction Funds come in E-Cash?",
+    "answer": {
+      "part1": " No, You will never get the Surcharge Fund in E-Cash. You will get the service's actual amount of the transaction funds which was initiated by you in the BBPS & Credit Card Services. <br><br>Because we already collected the charges from your side. So, We will never charge it again."
+
+  
+
+    }
+  },
+  {
+    "id": 28,
+    "question": " Is there any charge for paying a credit card bill via UPI apps?",
+    "answer": {
+      "part1": "No, there are no charges applicable to paying credit card bills via UPI apps linked to your bank account."
+     
+  
+
+    }
+  },
+  {
+    "id": 29,
+    "question": " Is there any charge for paying a credit card bill via a UPI-linked credit card through the UPI app?",
+    "answer": {
+      "part1": " However, there are zero charges for paying UPI apps linked to your bank account. If you select a Rupay credit card after redirecting to your preferred UPI app, a 2.5% charge may be applicable to your total paid amount."
+     
+  
+
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+]

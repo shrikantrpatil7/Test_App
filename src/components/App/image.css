@@ -1,0 +1,67 @@
+.single-project.style-5 .about-app.style-5 .img-content .img {
+    position: relative;
+  }
+  
+  .single-project.style-5 .about-app.style-5 .img-content .img .main-img {
+    position: relative;
+    z-index: 5;
+  }
+  
+  .single-project.style-5 .about-app.style-5 .img-content .img .circle {
+    position: absolute;
+    z-index: 0;
+    left: 0;
+    top: 15%;
+    height: 70%;
+    object-fit: contain;
+    object-position: center;
+    animation: rotate-center 100s linear infinite both reverse;
+  }
+  
+  .single-project.style-5 .about-app.style-5 .img-content .img .bubbls {
+    position: absolute;
+    z-index: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    object-fit: contain;
+    object-position: center;
+    animation: rotate-center 100s linear infinite both;
+  }
+  
+  .single-project.style-5 .screenshots::after {
+    position: absolute;
+    content: "";
+    background-image: url(about_s4_wave.png);
+    background-repeat: repeat-x;
+    width: 100%;
+    height: 30px;
+    top: -1px;
+    left: 0;
+    z-index: 10;
+    transform: rotateX(180deg);
+  }
+  
+  .single-project.style-5 .share .social-icon {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f3f7fe;
+    color: #666;
+    font-size: 12px;
+    margin: 20px 3px 0;
+  }
+  
+  .single-project.style-5 .share .social-icon:hover {
+    background-color: var(--color-blue5);
+    color: #fff;
+  }
+  
+  .single-project.style-5 .share .social-icon.hover-blue4:hover {
+    background-color: var(--color-blue4);
+    color: #fff;
+  }
+  

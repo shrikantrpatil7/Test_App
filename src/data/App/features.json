@@ -1,0 +1,38 @@
+[
+  {
+    "image": "/assets/img/icons/fe1.png",
+    "title": {
+      "text1": "Secure, Compliant",
+      "text2": "Fintech Operations"
+    }
+  },
+  {
+    "image": "/assets/img/icons/fe2.png",
+    "title": {
+      "text1": "Efficient Data ",
+      "text2": "and Management"
+    }
+  },
+  {
+    "image": "/assets/img/icons/fe3.png",
+    "title": {
+      "text1": "Teamwork, Sharing Platform",
+      "text2": "and Solution"
+    },
+    "new": true
+  },
+  {
+    "image": "/assets/img/icons/fe4.png",
+    "title": {
+      "text1": "Quick Payment In",
+      "text2": "Everywhere"
+    }
+  },
+  {
+    "image": "/assets/img/icons/fe5.png",
+    "title": {
+      "text1": "Analyze ",
+      "text2": "and Innovate Solutions"
+    }
+  }
+]

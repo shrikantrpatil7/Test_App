@@ -1,0 +1,43 @@
+{
+  "features": [
+    { "icon": "fas fa-tag", "title": "Serving 100K Happy Clients" },
+    { "icon": "fas fa-sync", "title": "Empowering 75 Corporate Employees" },
+    { "icon": "fas fa-text-width", "title": "Partnering with 40 Banking & Corporate Allies" },
+    { "icon": "fas fa-clock", "title": "Four Years of Fintech Mastery " }
+  ],
+  "accordions": [
+
+    
+    {
+      "id": 1,
+      "title": "Credit Card Payment",
+      "content": "Pay your Credit Card Bills through AeronPay without any hassle, and get amazing rewards and cashbacks."
+    },
+    {
+      "id": 2,
+      "title": "Accept Payment through QR",
+      "content": "Collect the Funds from your Customers at the AeronPay QR on your Retail shop from any UPI Apps."
+    },
+    {
+      "id": 3,
+      "title": "Settlements",
+      "content": "Get an Instant Settlement of QR Code Funds with High level of Security in the Linked Retailer Account."
+    }
+  ],
+  "thirdFeatures": [
+    { "active": false, "title": "Cashback Rewards on Transactions" },
+    { "active": true, "title": "Direct Credit Card Bill Payment Facility" },
+    { "active": false, "title": "Advantageous Digital Gold and Silver Investments" },
+    { "active": false, "title": "Accessible Service, Anytime and Anywhere" },
+    { "active": false, "title": "Real-Time Transaction Monitoring for Enhanced Security" }
+   
+   
+  ],
+  "integrations": [
+    "/assets/img/about/intg1.png",
+    "/assets/img/about/intg5.png",
+    "/assets/img/about/intg4.png",
+    "/assets/img/about/intg3.png",
+    "/assets/img/about/intg2.png"
+  ]
+}
